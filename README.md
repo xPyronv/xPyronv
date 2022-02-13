@@ -17,27 +17,3 @@
   <img src="https://img.shields.io/static/v1?label=Discord&message=xpyron_%230001&color=blue&style=for-the-badge" align="center">
   <img src="https://komarev.com/ghpvc/?username=xpyronv&color=blue" align="center">
 </div>
-
-##
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg%22%3E
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg%22%3E
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg%22%3E
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg%22%3E
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/profile_images/1450275134342942721/rkuXTnSd_400x400.jpg%22%3E
-</div>
-
-## Estadísticas
-![](https://github-readme-stats-eugeniodevv.vercel.app/api?username=xpyronv&show_icons=true&theme=dark&count_private=true)
-![](https://github-readme-stats-eugeniodevv.vercel.app/api/top-langs/?username=xpyronv&langs_count=5&theme=dark)
-
-## Ahora mismo estoy:
-<a href="https://discord.com/users/877811473815056444%22%3E
-  <img src="https://i.imgur.com/T95suaJ.png" align="center" height="205">
-</a>
-<br>
-
-- 🔭 Estoy trabajando actualmente en [HypexMc](https://hypexmc.net/).
-- 💻 Soy administrador de sistemas en [HSecurity](https://hsecurity.net/).
-- 📫 Cómo contactarme: [@xpyronv](https://twitter.com/xpyron_) o xPyron.#4675.
