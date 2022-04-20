@@ -6,7 +6,7 @@
 </h1>
   <blockquote>
     <p align="center">
-      Soy un desarrollador de Java dev, utilizando el stack MERN (Mongo, Express, React, Node).
+      Soy un desarrollador de Java etc, soy dueño de Hsecurity Corporation u
       Siempre estoy motivado a mejorar, ¡poco a poco escalamos montañas!
     <p/>
   </blockquote>
